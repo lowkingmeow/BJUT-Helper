@@ -7,7 +7,7 @@ import requests
 LOG = logging.getLogger("mkdocs.hooks.contributors")
 
 GITHUB_API = "https://api.github.com"
-REPO = "bjut-swift/BJUT-Helper"
+REPO = "lowkingmeow/BJUT-Helper"
 BRANCH = "master"
 CACHE_FILE = ".cache/contributors.json"
 

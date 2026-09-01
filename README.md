@@ -1,37 +1,35 @@
-# BJUT-Helper
+# 洛青喵的资源共享网站
 
-<div align="center">
-    <img src="https://cdn.bjutswift.cn/https://raw.githubusercontent.com/bjut-swift/BJUT-Helper/master/images/title.png" alt="front" width="350" height="350">
-</div>
+> 💡 **欢迎各位联系我共同进步！！**  
+> 如果你有兴趣参与项目维护、贡献资料或加入我的计划，欢迎通过邮箱 `whwluoqing2006@163.com` 联系我。
 
-> 💡 **欢迎加入 BJUT-SWIFT 组织！**  
-> 如果你有兴趣参与项目维护、贡献资料或加入我们的团队，欢迎通过邮箱 `bjutswift.cn@gmail.com` 联系我们。
-
-推荐使用[本项目网页端](https://helper.bjutswift.cn/)进行文件检索与下载。
+推荐使用[本项目网页端](https://lowkingmeow.github.io/BJUT-Helper/)进行文件检索与下载。
 
 若要下载单个文件夹，将该文件夹网址复制到 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 点击 download 即可下载。
 
-感谢对本项目贡献的同学：
+感谢BJUT-Helper的项目开源，以及广大同学们的帮助
 
-<a href="https://github.com/bjut-swift/BJUT-Helper/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=bjut-swift/BJUT-Helper" />
-</a>
+
 
 ... 还有屏幕前的你。
 
 ## Preface | 引言 1
-> by 项目发起人
+> by 网页作者
 
-毕业后才意识到其实这里一直疏忽了放一段给新生们的欢迎语，于是今天在这里添上：欢迎来到北京工业大学！
+起因是本人在校内完全找不到任何可用的学习资料，便在网络上搜索到了北京工业大学的北京工业大学课程资料共享计划，于是我就想为什么我们没有一个这样的网站！
+
+所以便有了这个项目，该网站还在初期建设阶段，欢迎广大同学提供建议。
 
 作为一名普通的大学生，这四年可以做的事情很多，但是你能做的事其实比你想的更多！
 
 - 你可以学会提问，让自己收获更多助力自我发展的新鲜信息；
 - 你可以学会求助，从校内外获取帮助远比你想的更触手可及；
 - 你可以学会付出，被帮助的你向曾经的自己们伸出有力的手；
-- 你可以学会自学，[我们做的编程入门](https://github.com/bjut-swift/CodeJourney)也许是个还不错的起点；
-- 你可以试着寻路，像[寻路之南](https://cs4ncu.space/)一样去探索那只属于自己的路；
+- 你可以学会自学，也许是个还不错的起点；
+
 - 你可以...
+
+希望本网站可以帮助同学们省去无用的时间，大胆去尝试自己想做的事情！
 
 ## Preface | 引言 2
 
@@ -70,11 +68,11 @@
 
 **第 3 步：提交 PR**
 
-回到[本项目主页](https://github.com/bjut-swift/BJUT-Helper)，点击 **Pull requests → New pull request**，选择你的 Fork 分支，提交即可。
+回到[本项目主页](https://github.com/lowkingmeow/BJUT-Helper)，点击 **Pull requests → New pull request**，选择你的 Fork 分支，提交即可。
 
 合并后网站会**自动更新**，无需任何手动操作。🎉
 
-> **更简单的方式**：不想学 Fork/PR？直接在 [Issues](https://github.com/bjut-swift/BJUT-Helper/issues) 里上传文件附件，说明是哪门课的资料，维护者会帮你添加。
+> **更简单的方式**：不想学 Fork/PR？直接在 [Issues](https://github.com/lowkingmeow/BJUT-Helper/issues) 里上传文件附件，说明是哪门课的资料，维护者会帮你添加。
 
 <details>
 <summary>📺 视频教程</summary>
@@ -88,7 +86,7 @@ B 站视频：[3 分钟成为 GitHub 开源项目贡献者](https://www.bilibili
 - 欢迎：笔记、复习资料、历年试卷、选课攻略、课程评价
 - 课程评价可以写在对应课程文件夹的 `README.md` 中
 - 命名建议：`届-专业-姓名.md`（如 `24-信管-张三.md`）
-- 有任何问题欢迎通过 `bjutswift.cn@gmail.com` 联系我们
+- 有任何问题欢迎通过 `whwluoqing2006@163.com` 联系我们
 
 ## Download | 下载方式
 
@@ -96,17 +94,13 @@ B 站视频：[3 分钟成为 GitHub 开源项目贡献者](https://www.bilibili
 
 ### a. 在线浏览（推荐）
 
-使用[本项目网页端](https://helper.bjutswift.cn/)，找到并点击相应文件即可下载。
+使用[本项目网页端](https://lowkingmeow.github.io/BJUT-Helper/)，找到并点击相应文件即可下载。
 
 ### b. 下载单个文件夹
 
 复制想下载的文件夹网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，点击 Download 即可。
 
 ### c. 下载全部文件
-
-<div align="center">
-    <img src="https://cdn.bjutswift.cn/https://raw.githubusercontent.com/bjut-swift/BJUT-Helper/master/images/how2download.jpg" alt="instruct" width="500" height="500">
-</div>
 
 1. 点击蓝色的 Code 部分
 2. 点击 Download ZIP 即可下载到本地
@@ -119,7 +113,7 @@ B 站视频：[3 分钟成为 GitHub 开源项目贡献者](https://www.bilibili
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/bjut-swift/BJUT-Helper.git && cd BJUT-Helper
+git clone https://github.com/lowkingmeow/BJUT-Helper.git && cd BJUT-Helper
 
 # 2. 安装依赖（需要 uv，也可用 conda/pip）
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -150,11 +144,11 @@ uv run mkdocs serve
 
 只是想尝试为后来的同学节省一些时间。
 
-由于资料来源复杂，如果收录的资料侵犯了您的著作权，请发起 issue 或发邮件至 `bjutswift.cn@gmail.com` ，我们将立即停止使用您的资料。
+由于资料来源复杂，如果收录的资料侵犯了您的著作权，请发起 issue 或发邮件至 `whwluoqing2006@163.com` ，我们将立即停止使用您的资料。
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bjut-swift/BJUT-Helper&type=Date)](https://star-history.com/#bjut-swift/BJUT-Helper&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lowkingmeow/BJUT-Helper&type=Date)](https://star-history.com/#lowkingmeow/BJUT-Helper&Date)
 
 ## Related Works | 相关项目
 

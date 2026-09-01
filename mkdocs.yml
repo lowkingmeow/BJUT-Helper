@@ -1,8 +1,8 @@
-site_name: 北京工业大学课程资料共享计划
-site_url: https://helper.bjutswift.cn
+site_name: 洛青喵的资源共享网站
+site_url: https://lowkingmeow.github.io/BJUT-Helper/
 docs_dir: docs/
-repo_name: 'bjut-swift/BJUT-Helper'
-repo_url: https://github.com/bjut-swift/BJUT-Helper
+repo_name: 'lowkingmeow/BJUT-Helper'
+repo_url: https://github.com/lowkingmeow/BJUT-Helper
 theme:
   name: material
   language: zh
@@ -56,4 +56,4 @@ hooks:
   - hooks/contributors.py
 
 copyright: |
-  &copy; 2023-2026 <a href="https://github.com/bjut-swift"  target="_blank" rel="noopener">BJUT-SWIFT</a>
+  &copy; 2026 洛青喵

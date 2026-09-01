@@ -19,8 +19,8 @@ def to_slug(name: str) -> str:
 
 
 TXT_EXTS = ['md', 'txt']
-TXT_URL_PREFIX = 'https://github.com/bjut-swift/BJUT-Helper/blob/master/'
-BIN_URL_PREFIX = 'https://github.com/bjut-swift/BJUT-Helper/raw/master/'
+TXT_URL_PREFIX = 'https://github.com/lowkingmeow/BJUT-Helper/blob/master/'
+BIN_URL_PREFIX = 'https://github.com/lowkingmeow/BJUT-Helper/raw/master/'
 
 
 def list_files(course: str):
